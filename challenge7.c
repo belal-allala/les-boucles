@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int nombre, chiffre, inverse = 0, i, len;
+    int nombre, chiffre, inverse = 0;
 
     printf("entrer un nombre entier : ");
     scanf("%d", &nombre);
